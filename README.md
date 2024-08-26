@@ -5,7 +5,7 @@
     <a href="https://leetcode.com/u/Nemchuk/">
         <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode%20-white?style=for-the-badge&logo=leetcode&logoSize=7" width="100" height="27">
     </a>
-      <a href="(https://stepik.org/users/938976254/profile">
+      <a href="https://stepik.org/users/938976254/profile">
         <img alt="Static Badge" src="https://img.shields.io/badge/Stepik-black?logo=stepik&logoColor=black" width="100" height="27">
     </a>
 </div>
