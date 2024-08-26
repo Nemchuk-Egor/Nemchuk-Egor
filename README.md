@@ -68,7 +68,7 @@
 
 ### 🔧 Текущие задачи:
 
-- Работаю над проектом [Linux Docker](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_two)
+- Работаю над проектом [Linux Docker](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_docker)
 
 ### 📫 Контакты:
 
