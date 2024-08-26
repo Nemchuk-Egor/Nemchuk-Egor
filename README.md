@@ -2,14 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://github.com/Nemchuk-Egor">
-        <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20-black?style=for-the-badge&logo=github&logoSize=11" width="100" height="27">
-    </a>
     <a href="https://leetcode.com/u/Nemchuk/">
         <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode%20-white?style=for-the-badge&logo=leetcode&logoSize=7" width="100" height="27">
     </a>
-    <a href="https://edu.21-school.ru/profile/takemiyd@student.21-school.ru">
-        <img alt="Static Badge" src="https://img.shields.io/badge/21-school%20-turquoise?style=for-the-badge&logo=21-school&logoSize=11" width="100" height="27">
+      <a href="(https://stepik.org/users/938976254/profile">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Stepik-black?logo=stepik&logoColor=black" width="100" height="27">
     </a>
 </div>
 <h1 align="center">
