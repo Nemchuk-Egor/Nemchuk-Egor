@@ -39,6 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40">
 </div>
 
 #### - **Планирую изучить:**
@@ -46,7 +47,6 @@
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android" **alt="Android" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="API" **alt="API" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="kotlin" **alt="kotlin" width="40" height="40">
