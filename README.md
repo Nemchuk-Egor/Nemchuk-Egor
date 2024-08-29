@@ -55,6 +55,7 @@
 - **[Библиотека String и sprintf на Си](https://github.com/Nemchuk-Egor/my-studies/tree/main/Stringplus):** 
 - **[Linux Devops](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_one):**
 - **[Linux Сети](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_two):**
+- **[Linux Docker](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_docker):**
 
 ### 🚀 Планы на будущее:
 
@@ -65,7 +66,7 @@
 
 ### 🔧 Текущие задачи:
 
-- Работаю над проектом [Linux Docker](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_docker)
+- Работаю над проектом [Linux CI/CD](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_docker)
 
 ### 📫 Контакты:
 
