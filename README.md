@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
     <a href="https://leetcode.com/u/Nemchuk/">
         <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode%20-white?style=for-the-badge&logo=leetcode&logoSize=7" width="100" height="27">
     </a>
@@ -9,6 +9,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/Stepik-black?logo=stepik&logoColor=black" width="100" height="27">
     </a>
 </div>
+-->
 <h1 align="center">
   Привет друг!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
