@@ -66,7 +66,7 @@
 
 ### 🔧 Текущие задачи:
 
-- Работаю над проектом [Linux CI/CD](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_docker)
+- Работаю над проектом [Linux CI/CD](https://github.com/Nemchuk-Egor/my-studies/tree/main/Linux_CICD)
 
 ### 📫 Контакты:
 
