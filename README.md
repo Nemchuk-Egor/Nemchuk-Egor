@@ -28,8 +28,8 @@
 
 - **[Утилита cat и grep для Linux на С](https://github.com/Nemchuk-Egor/my-studies/tree/main/cat_and_grep):** 
 - **[Библиотека String и sprintf на С](https://github.com/Nemchuk-Egor/my-studies/tree/main/Stringplus):**
-- **[Библиотека типа данных Decimal на С](https://github.com/Nemchuk-Egor/my-studies/tree/main/Stringplus):**
-- **[Тестовые задания в НТ (написание заглушек)](https://github.com/Nemchuk-Egor/my-studies/tree/main/Stringplus):**
+- **[Библиотека типа данных Decimal на С](https://github.com/Nemchuk-Egor/My_project/tree/main/decimal):**
+- **[Тестовые задания в НТ (написание заглушек)](https://github.com/Nemchuk-Egor/My_project/tree/main/SpringStub):**
 
 ### 🔧 Текущие задачи:
 
