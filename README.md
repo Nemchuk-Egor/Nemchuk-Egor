@@ -21,50 +21,20 @@
 ### 👨‍💻 Обо мне :
 
 <p style="color: #3498db; font-size: 18px;">
-Привет! Меня зовут Егор, и я участник школы 21. 🎓
+Привет! Меня зовут Егор, и я работаю в финтехе инженером по НТ а также я участник it школы 21 от сбербанка. 🎓
 </p>
-
-- **Цель:** Планирую начать изучение Android-разработки в течение года, чтобы освоить новую для себя профессию.📱
-- **Интересы:** Увлечен программированием и постоянно изучаю новые технологии, чтобы улучшать свои навыки. 💻
-- **Хобби:** Читаю профессиональную литературу и интересуюсь кинематографом, занимаюсь спортом. 📚🎬
-- **Мечта:** Создать инновационное приложение которое сможет улучшить жизнь людей и принести реальную пользу обществу. 🌍
-
-### Языки и инструменты : 🛠
-
-#### - **Изучаю:**
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="bash" **alt="bash" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40">
-</div>
-
-#### - **Планирую изучить:**
-
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android" **alt="Android" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="API" **alt="API" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="kotlin" **alt="kotlin" width="40" height="40">
-</div>
 
 ### 📂 Мои проекты:
 
-- **[Утилита cat и grep для Linux](https://github.com/Nemchuk-Egor/my-studies/tree/main/cat_and_grep):** 
-- **[Библиотека String и sprintf на Си](https://github.com/Nemchuk-Egor/my-studies/tree/main/Stringplus):** 
-
-### 🚀 Планы на будущее:
-
-- Завершить обучение в школе 21 и в университете.
-- Изучить и освоить Android-разработку.
-- Освоить Java и Kotlin, начать создавать простые Android-приложения.
-- Кроме того, изучить основы баз данных и RESTful API.
+- **[Утилита cat и grep для Linux на С](https://github.com/Nemchuk-Egor/my-studies/tree/main/cat_and_grep):** 
+- **[Библиотека String и sprintf на С](https://github.com/Nemchuk-Egor/my-studies/tree/main/Stringplus):**
+- **[Библиотека типа данных Decimal на С](https://github.com/Nemchuk-Egor/my-studies/tree/main/Stringplus):**
+- **[Тестовые задания в НТ (написание заглушек)](https://github.com/Nemchuk-Egor/my-studies/tree/main/Stringplus):**
 
 ### 🔧 Текущие задачи:
 
-- Работаю над проектом [Библиотека Decimal на Си]()
+- [Матрицы на С]()
+- [Тетрис на С]()
 
 ### 📫 Контакты:
 
